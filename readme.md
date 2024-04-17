@@ -27,10 +27,6 @@ Comenzaremos a hacer nuestro diseño desde el móvil, así que habrás de poner 
 
 Firefox:
 
-![](devtools-firefox.png)
-
-Chrome:
-
 ![](devtools-chrome.png)
 
 
