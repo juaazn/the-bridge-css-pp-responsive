@@ -6,62 +6,16 @@
 
 Haremos una página completamente "responsive", o con diseño adaptable, con la estrategia o aproximación de "mobile first", que no es otra cosa que realizar el diseño para móvil inicialmente, e ir extendiendo la programación hacia resoluciones o tamaños de pantalla mayores.
 
+Está es mi solución al al responsive layout. 😊
+
 Móvil:
 
-![](movil.png)
+![movil](https://github.com/juaazn/the-bridge-css-pp-responsive/assets/90198371/d9ccc8a8-b137-4d7d-b33c-a601fe2ba323)
 
 Tablet:
 
-![](tablet.png)
+![tablet](https://github.com/juaazn/the-bridge-css-pp-responsive/assets/90198371/759f3268-27eb-4fd8-8022-7c77d551fa98)
 
 Escritorio:
 
-![](escritorio.png)
-## Requisitos ##
-
-- HTML5
-
-- CSS3
-
-Comenzaremos a hacer nuestro diseño desde el móvil, así que habrás de poner tu navegador en modo "responsive" a través de las "Developer Tools":
-
-Firefox:
-
-![](devtools-chrome.png)
-
-
-## Iteraciones ##
-
-### Móvil ###
-
-1. Crea toda la estructura HTML
-
-    Agrega todo el contenido y dótalo de una estructura semántica completa.
-
-2. Añade estilos básicos de CSS para ayudarnos al desarrollo.
-
-    Agrega colores, como los modelos que te proponemos y así te resultará más fácil ver el tamaño de los bloques, así como su comportamiento.
-
-    ![](paso-02.png)
-
-3. Incluye texto de relleno que nos ayude también al desarrollo.
-
-   [Chiquito Ipsum](http://www.chiquitoipsum.com) como ayuda.
-
-   En este paso, el texo nos ayudará a ampliar el comportamiento de los bloques, y ajustar posteriormente para que nunca haya casos "extremos" en los que se vea incorrectamente
-
-   ![](paso-03.png)
-
-### Tablet ###
-
-4. Agregaremos nuestro primer punto de ruptura, a elegir, para añadir los estilos para el diseño de tablet.
-
-![](paso-04.png)
-
-### Escritorio ###
-
-5. Crearemos el punto de ruptura para escritorio y añadiremos los estilos pertinentes.
-
-    Tendrás que envolver en un bloque para poder darle un ancho determinado y centrar.
-
-    ![](paso-05.png)
+![escritorio](https://github.com/juaazn/the-bridge-css-pp-responsive/assets/90198371/a5e152b5-cf0d-4d67-8af6-a0927a9f44b3)
